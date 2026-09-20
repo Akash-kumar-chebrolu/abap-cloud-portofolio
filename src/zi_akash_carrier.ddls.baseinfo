@@ -3,12 +3,10 @@
 {
 "FROM":
 [
-"ZAKASH_BOOKINGS"
+"/DMO/CARRIER"
 ],
 "ASSOCIATED":
-[
-"ZI_AKASH_CARRIER"
-],
+[],
 "BASE":
 [],
 "ANNO_REF":
