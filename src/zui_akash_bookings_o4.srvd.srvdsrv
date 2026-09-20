@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition for Flight Bookings'
+define service ZUI_AKASH_BOOKINGS_O4 {
+  expose ZC_AKASH_BOOKINGS as Booking;
+}
